@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    align-items: center;
 }
 h1{
     color: whitesmoke;
@@ -8,5 +9,8 @@ p{
     color: whitesmoke;
 }
 h2{
+    color: whitesmoke;
+}
+h3{
     color: whitesmoke;
 }
