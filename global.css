@@ -1,31 +1,9 @@
-body{
-    background-color: black;
-    align-items: center;
+:root {
+--primary-color: #2B6CAC;
+--secondary-color: #245A8F;
+--contrast-color: #1D4873;
+--triadic-color: #163656;
+--extra-color: #0E2439;
+--pick-color: #07121D;
 }
-h1{
-    color: whitesmoke;
-}
-p{
-    color: whitesmoke;
-    
-}
-h2{
-    color: whitesmoke;
-}
-h3{
-    color: whitesmoke;
-}
-.jango{
-    max-width: 550px;
-    margin-bottom: 2rem;
-    font-size: 1.1rem;
-}
-.bon{
-    max-width: 550px;
-    margin-bottom: 2rem;
-    font-size: 1.1rem;
-}
-section{
-    justify-content: space-around;
-    display: flex;
-}
+
