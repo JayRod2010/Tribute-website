@@ -180,15 +180,6 @@ a {
     text-align: center;
 }
 
-.picture p {
-    margin-bottom: 0.25rem;
-    color: var(--text-color);
-    font-weight: bold;
-}
-
-.picture span {
-    font-size: 0.9rem;
-}
 
 
 
@@ -202,13 +193,13 @@ a {
 
 .small-card,
 .info-card {
-    padding: 1rem;
-    border-radius: 0.5rem;
+    padding: 10px;
+    border-radius: 10PX;
     background-color: var(--extra-color);
 }
 
 .small-card {
-    margin-top: 1rem;
+    margin-top: 10px;
     border-left: 4px solid var(--primary-color);
 }
 
